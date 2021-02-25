@@ -1,0 +1,10 @@
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\bin\Debug\AngleCalc.exe.config
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\AngleCalc.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\Test_Application.FormCalculate.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\AngleCalc.Properties.Resources.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\AngleCalc.csproj.GenerateResource.Cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\bin\Debug\AngleCalc.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\bin\Debug\AngleCalc.pdb
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\AngleCalc.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Test_Application\Test_Application\obj\Debug\AngleCalc.pdb
